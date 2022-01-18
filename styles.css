@@ -69,3 +69,17 @@ header {
     font-size: 20px;
     margin-top: 20px;
 }
+
+.placeholder {
+    width: 900px;
+    height: 200px;
+    background-color: grey;
+    border-radius: 6px;
+    color: rgba(255, 255, 255, 0.842);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
