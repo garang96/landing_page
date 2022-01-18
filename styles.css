@@ -32,3 +32,11 @@ header {
     font-size: 18px;
     font-weight: 700;
 }
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    margin-bottom: 100px;
+}
