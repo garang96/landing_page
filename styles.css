@@ -83,3 +83,18 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+h1 {
+    text-align: center;
+}
+
+.illustrated-text,
+.illustrate {
+    width: 180px;
+    height: 180px;
+}
+
+.illustrate {
+    border: 3px solid #008CBA;
+    border-radius: 25px;
+}
