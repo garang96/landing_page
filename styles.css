@@ -134,3 +134,14 @@ h1 {
     margin: 100px 230px;
     border-radius: 6px;
 }
+
+#action-call {
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+#click {
+    color: rgba(255, 255, 255, 0.918);
+    font-size: 18px;
+}
