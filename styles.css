@@ -107,7 +107,7 @@ h1 {
     font-size: 22px;
 }
 
-.mid-div {
+.mid-section {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -117,4 +117,9 @@ h1 {
     font-size: 33px;
     padding: 0 300px;
     color: rgba(0, 0, 0, 0.774);
+}
+
+#bold-div {
+    font-size: 25px;
+    align-self: flex-end;
 }
