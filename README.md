@@ -8,3 +8,9 @@ This project consists of some random unofficial landing page to be cloned. The p
 - page layout with flexbox.
 - working with colors and sizing elements.
 - header and footer layout.
+
+# Takeaways from this project
+
+- the power of flexbox.
+- HTML reserved characters.
+- grouping content.
