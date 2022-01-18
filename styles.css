@@ -106,3 +106,15 @@ h1 {
     color: rgba(0, 0, 0, 0.582);
     font-size: 22px;
 }
+
+.mid-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(128, 128, 128, 0.37);
+    height: 400px;
+    font-size: 33px;
+    padding: 0 300px;
+    color: rgba(0, 0, 0, 0.774);
+}
