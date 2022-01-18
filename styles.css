@@ -98,3 +98,11 @@ h1 {
     border: 3px solid #008CBA;
     border-radius: 25px;
 }
+
+.illustration-divs {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    color: rgba(0, 0, 0, 0.582);
+    font-size: 22px;
+}
