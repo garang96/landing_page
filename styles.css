@@ -47,3 +47,14 @@ header {
     display: flex;
     gap: 30px;
 }
+
+#title {
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.header-text {
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 18px;
+}
