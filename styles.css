@@ -123,3 +123,14 @@ h1 {
     font-size: 25px;
     align-self: flex-end;
 }
+
+.blue-div {
+    height: 130px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    margin: 100px 230px;
+    border-radius: 6px;
+}
