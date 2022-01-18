@@ -145,3 +145,13 @@ h1 {
     color: rgba(255, 255, 255, 0.918);
     font-size: 18px;
 }
+
+.blue-div button {
+    width: 120px;
+    padding: 8px 16px;
+    border: 2px solid white;
+    border-radius: 6px;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    color: white;
+}
